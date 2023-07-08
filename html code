@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <tite>Personal Portfilo Website</tite>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="hero">
+            <nav>
+                <img src="p-logo.jpg" class="logo">
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">ABOUT</a></li>
+                    <li><a href="#">PORTFILO</a></li>
+                    <li><a href="#">SKILLS AND SERVICES</a></li>
+                    <li><a href="#">HIRE ME</a></li>
+                </ul>
+            </nav>
+            <div class="detel">
+                <h1>I'm Aditya <span>Pratap</span></h1>
+                <p>This is my official portfolio website to shows all
+                    <br>details about me.
+                </p>
+                <a href="#">DOWNLOAD CV</a>
+            </div>
+             <div class="images">
+                <img src="girl image.jpg" class="girl">
+             </div>
+        </div>
+    </body>
+</html><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <tite>Personal Portfilo Website</tite>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="hero">
+            <nav>
+                <img src="p-logo.jpg" class="logo">
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">ABOUT</a></li>
+                    <li><a href="#">PORTFILO</a></li>
+                    <li><a href="#">SKILLS AND SERVICES</a></li>
+                    <li><a href="#">HIRE ME</a></li>
+                </ul>
+            </nav>
+            <div class="detel">
+                <h1>I'm Aditya <span>Pratap</span></h1>
+                <p>This is my official portfolio website to shows all
+                    <br>details about me.
+                </p>
+                <a href="#">DOWNLOAD CV</a>
+            </div>
+             <div class="images">
+                <img src="boy image.jpg" class="boy">
+             </div>
+        </div>
+    </body>
+</html>
